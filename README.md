@@ -1,4 +1,4 @@
-# VINO++ - A Winery Listing Application
+# VINO++
 
 **VINO++** is an application that lists wineries in **Macedonia**, providing users with an interactive map to explore wineries, leave ratings, and comments. The app allows users to register, log in, and manage wineries they have added, while admins have full access to manage all functionalities. This project was developed as part of a college assignment.
 
